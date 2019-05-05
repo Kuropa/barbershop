@@ -76,30 +76,17 @@ footer {
 .price {
     box-shadow: 0px -3px 0px #ffffff inset;
 }
-<<<<<<< HEAD
-.black-text {
-    color: #000000;
-    text-decoration: none;
-}
-.gray-text {
-    color: #aba9a7;
-    text-decoration: none;
-=======
 .price-link {
     color: #242424;
->>>>>>> 0fe3a4ece38f03cc8e7d546b78cb8db94f0f42e4
 }
 .menu-block {
     height: 100px;
     margin-top: 60px;
 }
-<<<<<<< HEAD
-=======
 .menu-block > a {
     color: #000000;
     text-decoration: none;
 }
->>>>>>> 0fe3a4ece38f03cc8e7d546b78cb8db94f0f42e4
 .menu-block > img {
     padding: 0px 20px 0px 20px;
 }
