@@ -152,8 +152,13 @@ footer {
 .content-left {
     display: flex;
     flex-wrap: wrap;
+<<<<<<< HEAD
     margin-top: 30px;
     width: 500px;
+=======
+    width: 500px;
+    margin-top: 30px;
+>>>>>>> 0fe3a4ece38f03cc8e7d546b78cb8db94f0f42e4
 }
 .info {
     display: flex;
@@ -164,6 +169,7 @@ footer {
     margin: 50px 0px 50px 0px;
 }
 .price, .buy {
+<<<<<<< HEAD
     align-items: center;
     background-color: #dfdfdf;
     cursor: pointer;
@@ -177,6 +183,21 @@ footer {
     height: 44px;
     text-align: center;
     width: 80px;
+=======
+    width: 110px;
+    height: 44px;
+    background-color: #dfdfdf;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.buy {
+    width: 80px;
+    height: 44px;
+    background-color: #000000;
+    text-align: center;
+>>>>>>> 0fe3a4ece38f03cc8e7d546b78cb8db94f0f42e4
 }
 .buy:hover {
     background-color: #663D15;
