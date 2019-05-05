@@ -88,7 +88,10 @@ footer {
 .navbar li {
     display: inline;
 }
-.navbar a:hover, .header-right:hover, .button-container:hover, .subbutton:hover {
+.button-container:hover, .subbutton:hover {
+    background: #663D15;
+}
+.navbar a:hover, .header-right:hover {
     background: #242424;
 }
 .logo-container {
